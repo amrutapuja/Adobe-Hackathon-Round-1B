@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "input_documents": [
+      "doc1.pdf",
+      "doc2.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28 15:32:29"
+  },
+  "extracted_sections": [
+    {
+      "document": "doc1.pdf",
+      "page_number": 1,
+      "section_title": "Graph Neural Networks for Drug Discovery\nIntroduction to GNNs\nHow GNNs Work\nAppl...",
+      "importance_rank": 3
+    },
+    {
+      "document": "doc2.pdf",
+      "page_number": 1,
+      "section_title": "Techniques and Tools for Molecular Prediction\nMachine Learning in Molecule Desig...",
+      "importance_rank": 3
+    }
+  ]
+}
